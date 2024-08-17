@@ -39,7 +39,7 @@ PathfinderAI is a web application that generates a comprehensive learning roadma
 
 4. Run the application:
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 ## Usage
