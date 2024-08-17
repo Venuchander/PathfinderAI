@@ -31,10 +31,10 @@ PathfinderAI is a web application that generates a comprehensive learning roadma
     ```
 
 3. Set up your environment variables:
-    - Create a `.env` file in the project root.
-    - Add your Google Generative AI API key:
+    - Rename the `.env.example` file to `.env`.
+    - Open the `.env` file and replace `YOUR_API_KEY` with your actual Google Generative AI API key:
       ```bash
-      api_key=your_api_key_here
+      api_key=your_actual_api_key_here
       ```
 
 4. Run the application:
