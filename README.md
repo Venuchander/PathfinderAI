@@ -54,7 +54,7 @@ PathfinderAI is a web application that generates a comprehensive learning roadma
 - [Streamlit](https://streamlit.io/)
 - [FPDF](http://www.fpdf.org/)
 - [Python-dotenv](https://pypi.org/project/python-dotenv/)
-- [Google Generative AI](https://developers.google.com/generative-ai)
+- [Google Gemini AI](https://ai.google.dev/gemini-api)
 
 ## License
 
