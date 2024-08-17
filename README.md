@@ -22,7 +22,7 @@ PathfinderAI is a web application that generates a comprehensive learning roadma
 1. Clone this repository:
     ```bash
     git clone https://github.com/Venuchander/PathfinderAI.git
-    cd pathfinderai
+    cd PathfinderAI
     ```
 
 2. Install the required dependencies:
