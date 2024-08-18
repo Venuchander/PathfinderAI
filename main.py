@@ -6,7 +6,7 @@ from fpdf import FPDF # type: ignore
 from io import BytesIO
 
 load_dotenv()
-api_key = os.getenv(api_key)
+api_key = os.getenv('api_key')
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-pro')
 
