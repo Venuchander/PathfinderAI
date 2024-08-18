@@ -56,6 +56,17 @@ PathfinderAI is a web application that generates a comprehensive learning roadma
 - [Python-dotenv](https://pypi.org/project/python-dotenv/)
 - [Google Gemini AI](https://ai.google.dev/gemini-api)
 
+## Contributors
+
+<div style="display: flex; align-items: center;">
+    <a href="https://github.com/imsuryya" style="display: inline-block; margin-right: 40px;">
+        <img src="https://github.com/imsuryya.png" alt="Suryya" style="width: 50px; height: 50px; border-radius: 50%;">
+    </a>
+    <a href="https://github.com/Venuchander" style="display: inline-block;">
+        <img src="https://github.com/Venuchander.png" alt="Venuchander" style="width: 50px; height: 50px; border-radius: 50%;">
+    </a>
+</div>
+
 ## License
 
 This project is licensed under the MIT License.
