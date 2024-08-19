@@ -47,6 +47,3 @@ if user_topic:
            
         except Exception as e:
             st.error(f"An error occurred while generating the roadmap. Please try again. Error details: {str(e)}")
-
-if None:
-    None
