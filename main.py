@@ -17,7 +17,7 @@ st.subheader("Get a comprehensive roadmap to learn any topic from beginner to ad
 user_topic = st.text_input("Enter the topic you want to learn:")
 
 if user_topic:
-    prompt = f"Create a comprehensive roadmap to learn {user_topic} from beginner to advanced, including blog articles and YouTube videos. Structure the roadmap in clear stages (e.g., Beginner, Intermediate, Advanced) and provide specific resources for each stage and make sure that all the URL of the links are working"
+    prompt = f"Create a comprehensive roadmap to learn {user_topic} from beginner to advanced, including blog articles and YouTube videos. Structure the roadmap in clear stages (e.g., Beginner, Intermediate, Advanced)"
     
     with st.spinner("Generating your learning roadmap..."):
         try:
